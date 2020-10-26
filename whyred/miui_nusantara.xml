@@ -3,7 +3,7 @@
     <VersionName>MIUI Nusantara 20.10.22</VersionName>
     <VersionNumber type="integer">12000021</VersionNumber>
     <DirectUrl nil="true"/>
-    <HttpUrl>https://https://miui-nusantara.lamz.workers.dev/WHYRED/MIUI_NUSANTARA_20.10.15_HMNOTE5_12-10.zip</HttpUrl>
+    <HttpUrl>https://miui-nusantara.lamz.workers.dev/WHYRED/MIUI_NUSANTARA_20.10.15_HMNOTE5_12-10.zip</HttpUrl>
     <Android>10.0</Android>
     <CheckMD5 nil="true"/>
     <FileSize type="integer">22791324</FileSize>
